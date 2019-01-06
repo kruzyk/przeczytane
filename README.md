@@ -7,6 +7,8 @@
 * https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15?gi=29716d8a2e0f
 * https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af
 * https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8
+* https://developers.shopware.com/designers-guide/smarty/#variables
+* https://www.smarty.net/docsv2/en/language.modifiers.tpl
 
 ### w trakcie:
 * https://zellwk.com/blog/how-to-write-mobile-first-css/
@@ -22,6 +24,8 @@
 
 ### cheat sheets:
 * https://htmlcheatsheet.com/css/
+### music:
+* https://medium.com/level-up-web/youtube-background-music-for-coding-99b592a74dc8
 
 ## KURSY
 ### do zrobienia:
@@ -29,6 +33,7 @@
 * https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
 
 ### w trakcie:
+* https://css-tricks.com/lodge/svg/13-svg-icon-system-use-element/
 * https://www.youtube.com/watch?v=mJjFez8bUD8 - samuraj
 * https://learndigital.withgoogle.com/internetowerewolucje/course/digital-marketing
 
@@ -42,3 +47,4 @@
 ### przeczytane:
 * https://pomoc.ifirma.pl/pomoc-artykul/jak-zamknac-miesiac-w-ifirmapl/#wydatki
 * https://pomoc.ifirma.pl/pomoc-artykul/obowiazki-podatnika-na-koniec-roku-podatkowego-2018-kpir/
+* https://pomoc.ifirma.pl/pomoc-artykul/jak-ksiegowac-skladki-zus/
