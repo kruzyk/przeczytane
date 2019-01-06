@@ -10,6 +10,7 @@
 * https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych.html#Do-czego-sluzy-SVN
 * https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793
 * https://medium.com/coinmonks/docker-in-a-nutshell-6b3985a58d68
+* https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15?gi=29716d8a2e0f
 
 ### przeczytane:
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
