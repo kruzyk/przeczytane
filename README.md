@@ -9,11 +9,10 @@ https://szczecinski.eu/docs/redux/intro/czym-jest-redux
 ### w trakcie:
 https://zellwk.com/blog/how-to-write-mobile-first-css/
 https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793
-https://medium.com/datadriveninvestor/understand-array-map-in-javascript-by-rolling-your-own-842d6031f168
-
 
 ### przeczytane:
 http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
+https://medium.com/datadriveninvestor/understand-array-map-in-javascript-by-rolling-your-own-842d6031f168
 
 ### cheat sheets:
 https://htmlcheatsheet.com/css/
