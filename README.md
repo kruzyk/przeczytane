@@ -4,13 +4,15 @@
 * https://szczecinski.eu/docs/es6/const
 * https://szczecinski.eu/docs/react/podstawowe-pojecia/basic
 * https://szczecinski.eu/docs/redux/intro/czym-jest-redux
+* https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15?gi=29716d8a2e0f
+* https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af
+* https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8
 
 ### w trakcie:
 * https://zellwk.com/blog/how-to-write-mobile-first-css/
 * https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych.html#Do-czego-sluzy-SVN
 * https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793
 * https://medium.com/coinmonks/docker-in-a-nutshell-6b3985a58d68
-* https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15?gi=29716d8a2e0f
 
 ### przeczytane:
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
