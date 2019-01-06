@@ -19,6 +19,7 @@
 ## KURSY
 ### do zrobienia:
 * https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
+* https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
 
 ### w trakcie:
 * https://www.youtube.com/watch?v=mJjFez8bUD8 - samuraj
