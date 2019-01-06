@@ -11,6 +11,7 @@
 
 ### przeczytane:
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
+* https://astrofloyd.wordpress.com/2015/05/05/git-pushing-to-and-pulling-from-multiple-remote-locations-remote-url-and-pushurl/
 * https://medium.com/datadriveninvestor/understand-array-map-in-javascript-by-rolling-your-own-842d6031f168
 
 ### cheat sheets:
