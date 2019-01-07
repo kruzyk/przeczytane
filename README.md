@@ -44,7 +44,7 @@
 
 ### w trakcie:
 * https://css-tricks.com/lodge/svg/13-svg-icon-system-use-element/
-* https://www.youtube.com/watch?v=mJjFez8bUD8 - samuraj
+* https://www.youtube.com/watch?v=pfK16DU1sQs - samuraj #13
 * https://learndigital.withgoogle.com/internetowerewolucje/course/digital-marketing
 
 ### zakończone:
