@@ -21,6 +21,8 @@
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
 * https://astrofloyd.wordpress.com/2015/05/05/git-pushing-to-and-pulling-from-multiple-remote-locations-remote-url-and-pushurl/
+
+* __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
 * https://medium.com/datadriveninvestor/understand-array-map-in-javascript-by-rolling-your-own-842d6031f168
 
 ### cheat sheets:
