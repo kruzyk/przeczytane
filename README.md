@@ -18,12 +18,19 @@
 * https://medium.com/coinmonks/docker-in-a-nutshell-6b3985a58d68
 
 ### przeczytane:
+#### HTML/CSS
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
+
+#### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
 * https://astrofloyd.wordpress.com/2015/05/05/git-pushing-to-and-pulling-from-multiple-remote-locations-remote-url-and-pushurl/
 
+#### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
 * https://medium.com/datadriveninvestor/understand-array-map-in-javascript-by-rolling-your-own-842d6031f168
+
+#### inne SEM/SEO itd:
+* https://www.intellect.pl/blog/zmiany-google-maps/
 
 ### cheat sheets:
 * https://htmlcheatsheet.com/css/
