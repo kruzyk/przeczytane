@@ -34,6 +34,7 @@
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
 * https://medium.com/datadriveninvestor/understand-array-map-in-javascript-by-rolling-your-own-842d6031f168
+* https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb
 
 #### inne SEM/SEO itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
