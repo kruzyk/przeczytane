@@ -16,7 +16,6 @@
 * https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8
 * https://developers.shopware.com/designers-guide/smarty/#variables
 * https://www.smarty.net/docsv2/en/language.modifiers.tpl
-* https://css-tricks.com/scroll-fix-content/
 
 ### w trakcie:
 * https://zellwk.com/blog/how-to-write-mobile-first-css/
@@ -27,6 +26,7 @@
 ### przeczytane:
 #### HTML/CSS
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
+* https://css-tricks.com/scroll-fix-content/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
