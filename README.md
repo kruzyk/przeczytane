@@ -1,6 +1,7 @@
 # Baza wiedzy do przerobienia
 ## KODOWANIE
 ### do przeczytania:
+* https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945
 * https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913
 * https://uxdesign.cc/ux-portfolio-tips-and-best-practices-f02e09a53923
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
