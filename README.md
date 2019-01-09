@@ -26,6 +26,7 @@
 #### HTML/CSS
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
 * https://css-tricks.com/scroll-fix-content/
+* https://www.smashingmagazine.com/2019/01/how-to-learn-css/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
