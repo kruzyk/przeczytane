@@ -1,7 +1,6 @@
 # Baza wiedzy do przerobienia
 ## KODOWANIE
 ### do przeczytania:
-* https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913
 * https://uxdesign.cc/ux-portfolio-tips-and-best-practices-f02e09a53923
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
 * https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
@@ -38,6 +37,7 @@
 * https://medium.com/datadriveninvestor/understand-array-map-in-javascript-by-rolling-your-own-842d6031f168
 * https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb
 * https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945
+* __https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913__
 
 #### inne SEM/SEO itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
