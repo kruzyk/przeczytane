@@ -5,7 +5,6 @@
 * https://uxdesign.cc/ux-portfolio-tips-and-best-practices-f02e09a53923
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
 * https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
-* https://uxdesign.cc/make-sense-of-rounded-corners-on-buttons-dfc8e13ea7f7
 * https://uxdesign.cc/ux-trends-2019-3ddadf853ca
 * https://szczecinski.eu/docs/es6/const
 * https://szczecinski.eu/docs/react/podstawowe-pojecia/basic
@@ -28,6 +27,7 @@
 * https://css-tricks.com/scroll-fix-content/
 * https://www.smashingmagazine.com/2019/01/how-to-learn-css/
 * https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/
+* https://uxdesign.cc/make-sense-of-rounded-corners-on-buttons-dfc8e13ea7f7
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
