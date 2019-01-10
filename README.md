@@ -45,6 +45,7 @@
 ### cheat sheets:
 * https://htmlcheatsheet.com/css/
 ### music:
+* http://musicforprogramming.net/
 * https://medium.com/level-up-web/youtube-background-music-for-coding-99b592a74dc8
 
 ## KURSY
