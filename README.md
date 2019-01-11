@@ -1,7 +1,6 @@
 # Baza wiedzy do przerobienia
 ## KODOWANIE
 ### do przeczytania:
-* https://uxdesign.cc/ux-portfolio-tips-and-best-practices-f02e09a53923
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
 * https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
 * https://uxdesign.cc/ux-trends-2019-3ddadf853ca
