@@ -1,6 +1,7 @@
 # Baza wiedzy do przerobienia
 ## KODOWANIE
 ### do przeczytania:
+* https://open.nytimes.com/css-grid-for-designers-f74a883b98f5?fbclid=IwAR3OGkqJD2GsSVViDiEeUrZKB8QRWOXxQlXw9xvCwZegE7ldRNfCjYmi7sk
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
 * https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
 * https://uxdesign.cc/ux-trends-2019-3ddadf853ca
