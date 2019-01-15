@@ -1,7 +1,6 @@
 # Baza wiedzy do przerobienia
 ## KODOWANIE
 ### do przeczytania:
-* https://open.nytimes.com/css-grid-for-designers-f74a883b98f5?fbclid=IwAR3OGkqJD2GsSVViDiEeUrZKB8QRWOXxQlXw9xvCwZegE7ldRNfCjYmi7sk
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
 * https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
 * https://uxdesign.cc/ux-trends-2019-3ddadf853ca
@@ -27,6 +26,8 @@
 * https://www.smashingmagazine.com/2019/01/how-to-learn-css/
 * https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/
 * https://uxdesign.cc/make-sense-of-rounded-corners-on-buttons-dfc8e13ea7f7
+* https://open.nytimes.com/css-grid-for-designers-f74a883b98f5?fbclid=IwAR3OGkqJD2GsSVViDiEeUrZKB8QRWOXxQlXw9xvCwZegE7ldRNfCjYmi7sk
+* https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
