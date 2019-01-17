@@ -30,6 +30,7 @@
 * https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6
 * https://wiedzainformatyczna.pl/html5-semantyka/
 * __https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/__
+* https://css-tricks.com/pure-css-horizontal-scrolling/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
