@@ -28,6 +28,7 @@
 * https://uxdesign.cc/make-sense-of-rounded-corners-on-buttons-dfc8e13ea7f7
 * https://open.nytimes.com/css-grid-for-designers-f74a883b98f5?fbclid=IwAR3OGkqJD2GsSVViDiEeUrZKB8QRWOXxQlXw9xvCwZegE7ldRNfCjYmi7sk
 * https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6
+* https://wiedzainformatyczna.pl/html5-semantyka/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
