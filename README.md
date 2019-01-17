@@ -31,6 +31,7 @@
 * https://wiedzainformatyczna.pl/html5-semantyka/
 * __https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/__
 * https://css-tricks.com/pure-css-horizontal-scrolling/
+* https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
