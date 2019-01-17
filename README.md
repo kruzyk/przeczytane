@@ -33,6 +33,7 @@
 * __https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/__
 * https://css-tricks.com/pure-css-horizontal-scrolling/
 * https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/
+* https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
