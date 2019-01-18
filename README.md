@@ -34,6 +34,7 @@
 * https://css-tricks.com/pure-css-horizontal-scrolling/
 * https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/
 * https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/
+* https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
