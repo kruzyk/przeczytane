@@ -45,6 +45,7 @@
 * https://medium.freecodecamp.org/these-are-the-features-in-es6-that-you-should-know-1411194c71cb
 * https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945
 * __https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913__
+* https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
 
 #### inne SEM/SEO itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
