@@ -56,6 +56,7 @@
 * https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
 * https://medium.com/@namkam5/10-things-every-front-end-developer-should-know-a6cf6877866f
 * __https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae__
+* __https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/__
 
 #### inne SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
