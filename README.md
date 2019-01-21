@@ -55,8 +55,9 @@
 * __https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913__
 * https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
 
-#### inne SEM/SEO itd:
+#### inne SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
+* https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
 
 ### cheat sheets:
 * https://htmlcheatsheet.com/css/
