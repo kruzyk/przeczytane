@@ -18,6 +18,7 @@
 * https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych.html#Do-czego-sluzy-SVN
 * https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793
 * https://medium.com/coinmonks/docker-in-a-nutshell-6b3985a58d68
+* https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 
 ### przeczytane:
 #### HTML/CSS
