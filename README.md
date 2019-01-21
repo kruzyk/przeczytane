@@ -41,6 +41,7 @@
 * https://zellwk.com/blog/css-architecture-1/
 * https://zellwk.com/blog/css-architecture-2/
 * https://zellwk.com/blog/css-architecture-3/
+* https://dailyweb.pl/nauka-bem-w-5-minut/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
