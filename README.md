@@ -40,6 +40,7 @@
 * https://www.nafrontendzie.pl/metodyki-css-2-bem
 * https://zellwk.com/blog/css-architecture-1/
 * https://zellwk.com/blog/css-architecture-2/
+* https://zellwk.com/blog/css-architecture-3/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
