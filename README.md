@@ -38,6 +38,7 @@
 * https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/aria-landmarks/
 * http://getbem.com/naming/
 * https://www.nafrontendzie.pl/metodyki-css-2-bem
+* https://zellwk.com/blog/css-architecture-1/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
