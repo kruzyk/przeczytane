@@ -36,6 +36,7 @@
 * https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/
 * https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 * https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/aria-landmarks/
+* http://getbem.com/naming/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
