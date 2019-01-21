@@ -54,6 +54,7 @@
 * https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945
 * __https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913__
 * https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
+* https://medium.com/@namkam5/10-things-every-front-end-developer-should-know-a6cf6877866f
 
 #### inne SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
