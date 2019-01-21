@@ -39,6 +39,7 @@
 * http://getbem.com/naming/
 * https://www.nafrontendzie.pl/metodyki-css-2-bem
 * https://zellwk.com/blog/css-architecture-1/
+* https://zellwk.com/blog/css-architecture-2/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
