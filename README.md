@@ -4,7 +4,6 @@
 * https://css-tricks.com/almanac/properties/o/overflow/
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
 * https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
-* https://uxdesign.cc/ux-trends-2019-3ddadf853ca
 * https://szczecinski.eu/docs/es6/const
 * https://szczecinski.eu/docs/react/podstawowe-pojecia/basic
 * https://szczecinski.eu/docs/redux/intro/czym-jest-redux
