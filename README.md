@@ -37,6 +37,7 @@
 * https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 * https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/aria-landmarks/
 * http://getbem.com/naming/
+* https://www.nafrontendzie.pl/metodyki-css-2-bem
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
