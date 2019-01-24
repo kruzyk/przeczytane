@@ -45,6 +45,7 @@
 * https://dailyweb.pl/nauka-bem-w-5-minut/
 * https://medium.com/datadriveninvestor/css-evolves-you-also-should-78eec0ae17fa
 * __https://medium.com/wdstack/how-to-bootstrap-94abe3525442__
+* https://blog.bitsrc.io/how-to-check-the-understanding-of-css-layout-2325621491ad
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
