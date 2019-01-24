@@ -62,9 +62,10 @@
 * __https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae__
 * __https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/__
 
-#### inne SEM/SEO/UI/UX itd:
+#### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
 * https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
+* https://medium.com/@devon_campbell/why-should-i-care-about-http-714005cdd50e
 
 ### cheat sheets:
 * https://htmlcheatsheet.com/css/
