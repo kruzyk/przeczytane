@@ -48,6 +48,7 @@
 * https://blog.bitsrc.io/how-to-check-the-understanding-of-css-layout-2325621491ad with https://www.chenhuijing.com/demos/layout-study/
 * https://medium.freecodecamp.org/empty-and-blank-53b9e96151cd
 * https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134
+* https://medium.com/@ethanryan/psd-to-html-is-a-dumb-way-to-make-a-website-a-better-way-pen-and-paper-845dffff2223
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
