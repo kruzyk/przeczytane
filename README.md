@@ -52,6 +52,7 @@
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
 * https://astrofloyd.wordpress.com/2015/05/05/git-pushing-to-and-pulling-from-multiple-remote-locations-remote-url-and-pushurl/
+* https://medium.com/datadriveninvestor/git-for-beginner-f438adfc3599
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
@@ -70,6 +71,8 @@
 * https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
 * https://medium.com/@devon_campbell/why-should-i-care-about-http-714005cdd50e
 
+#### VScode:
+* https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
 ### cheat sheets:
 * https://htmlcheatsheet.com/css/
 ### music:
