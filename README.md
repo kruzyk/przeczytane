@@ -47,6 +47,7 @@
 * __https://medium.com/wdstack/how-to-bootstrap-94abe3525442__
 * https://blog.bitsrc.io/how-to-check-the-understanding-of-css-layout-2325621491ad with https://www.chenhuijing.com/demos/layout-study/
 * https://medium.freecodecamp.org/empty-and-blank-53b9e96151cd
+* https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
