@@ -58,6 +58,7 @@
 * https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych.html
 * https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych,2.html
 * http://www.is.umk.pl/~grochu/wiki/doku.php?id=zajecia:ppz:trac_svn
+* __https://stackoverflow.com/posts/15658849/revisions__ TortoiseSVN merge trunk to branch
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
