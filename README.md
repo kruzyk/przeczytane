@@ -55,6 +55,7 @@
 * https://astrofloyd.wordpress.com/2015/05/05/git-pushing-to-and-pulling-from-multiple-remote-locations-remote-url-and-pushurl/
 * https://medium.com/datadriveninvestor/git-for-beginner-f438adfc3599
 * __http://guides.beanstalkapp.com/version-control/svn-branching.html__
+* https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych,2.html
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
