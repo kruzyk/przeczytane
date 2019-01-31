@@ -57,6 +57,7 @@
 * __http://guides.beanstalkapp.com/version-control/svn-branching.html__
 * https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych.html
 * https://leniwy.eu/news,9,Podstawy-SVN-poradnik-dla-poczatkujacych,2.html
+* http://www.is.umk.pl/~grochu/wiki/doku.php?id=zajecia:ppz:trac_svn
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
