@@ -77,6 +77,7 @@
 * https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
 * https://medium.com/@devon_campbell/why-should-i-care-about-http-714005cdd50e
 * https://produktywni.pl/blog/technika-pomodoro/
+* __https://kursjs.pl/kurs/ajax/ajax.php__
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
@@ -86,6 +87,7 @@
 * http://musicforprogramming.net/
 * https://medium.com/level-up-web/youtube-background-music-for-coding-99b592a74dc8
 * __https://rainymood.com/__
+* __https://kursjs.pl/kurs/jquery/jquery-ajax.php__
 
 ## KURSY
 ### do zrobienia:
