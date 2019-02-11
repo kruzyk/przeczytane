@@ -78,6 +78,7 @@
 * https://medium.com/@devon_campbell/why-should-i-care-about-http-714005cdd50e
 * https://produktywni.pl/blog/technika-pomodoro/
 * __https://kursjs.pl/kurs/ajax/ajax.php__
+* https://uxplanet.org/bidirectional-scrolling-is-here-to-save-responsive-design-be1afe53206d
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
