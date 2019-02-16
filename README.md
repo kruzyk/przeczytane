@@ -71,6 +71,7 @@
 * __https://medium.freecodecamp.org/lets-clear-up-the-confusion-around-the-slice-splice-split-methods-in-javascript-8ba3266c29ae__
 * __https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/__
 * __https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4__
+* https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
