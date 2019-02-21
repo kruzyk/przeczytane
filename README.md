@@ -49,6 +49,7 @@
 * https://medium.freecodecamp.org/empty-and-blank-53b9e96151cd
 * https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134
 * https://medium.com/@ethanryan/psd-to-html-is-a-dumb-way-to-make-a-website-a-better-way-pen-and-paper-845dffff2223
+* https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
