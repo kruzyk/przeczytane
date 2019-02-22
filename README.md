@@ -51,6 +51,7 @@
 * https://medium.com/@ethanryan/psd-to-html-is-a-dumb-way-to-make-a-website-a-better-way-pen-and-paper-845dffff2223
 * https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/
 * https://blog.usejournal.com/in-the-css-lab-shiny-gradient-hover-effect-274e5cb0346d
+* __https://blog.usejournal.com/css-scroll-snap-how-it-really-works-94d99db80bc9__
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
