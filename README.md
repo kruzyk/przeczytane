@@ -50,6 +50,7 @@
 * https://medium.com/@ferie/detect-a-touch-device-with-only-css-9f8e30fa1134
 * https://medium.com/@ethanryan/psd-to-html-is-a-dumb-way-to-make-a-website-a-better-way-pen-and-paper-845dffff2223
 * https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/
+* https://blog.usejournal.com/in-the-css-lab-shiny-gradient-hover-effect-274e5cb0346d
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
