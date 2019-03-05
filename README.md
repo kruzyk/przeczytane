@@ -76,6 +76,7 @@
 * __https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4__
 * https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529
 * __https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db__
+* https://medium.com/datadriveninvestor/a-potterheads-guide-to-javascript-s-this-keyword-7908399d0e93
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
