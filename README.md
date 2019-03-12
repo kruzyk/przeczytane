@@ -81,6 +81,7 @@
 * https://itnext.io/an-introduction-to-jquery-53d821e13153
 * __https://medium.com/techtrument/enumeration-objects-in-javascript-ec06a83f39f2__
 * https://www.stravid.com/en/cleaner-javascript-code-with-enums/
+* https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
