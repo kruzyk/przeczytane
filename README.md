@@ -52,6 +52,7 @@
 * https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/
 * https://blog.usejournal.com/in-the-css-lab-shiny-gradient-hover-effect-274e5cb0346d
 * __https://blog.usejournal.com/css-scroll-snap-how-it-really-works-94d99db80bc9__
+* https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
