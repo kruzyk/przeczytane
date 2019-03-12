@@ -112,7 +112,7 @@
 
 ### zakończone:
 
-## DZIAŁALNOŚĆ GOSPODARCZA
+## DZIAŁALNOŚĆ GOSPODARCZA/PRACA
 ### do przeczytania:
 
 ### w trakcie:
@@ -121,3 +121,4 @@
 * https://pomoc.ifirma.pl/pomoc-artykul/jak-zamknac-miesiac-w-ifirmapl/#wydatki
 * https://pomoc.ifirma.pl/pomoc-artykul/obowiazki-podatnika-na-koniec-roku-podatkowego-2018-kpir/
 * https://pomoc.ifirma.pl/pomoc-artykul/jak-ksiegowac-skladki-zus/
+* https://bedeprogramistka.pl/pytania-rekrutacyjne-kompetencje-miekkie/
