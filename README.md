@@ -83,6 +83,7 @@
 * __https://medium.com/techtrument/enumeration-objects-in-javascript-ec06a83f39f2__
 * https://www.stravid.com/en/cleaner-javascript-code-with-enums/
 * https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
+* __https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa__
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
