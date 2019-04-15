@@ -86,6 +86,7 @@
 * __https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa__
 * __https://medium.freecodecamp.org/dom-manipulation-in-vanilla-js-2036a568dcd9__ __!!__
 * https://fr.umio.us/why-ramda/
+* https://itnext.io/a-beginners-guide-to-ramda-part-1-7e4a34972e97
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
