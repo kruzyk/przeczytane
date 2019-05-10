@@ -54,6 +54,7 @@
 * __https://blog.usejournal.com/css-scroll-snap-how-it-really-works-94d99db80bc9__
 * https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676
 + __https://www.youtube.com/watch?v=Zz6eOVaaelI&t=2s__ SASS
++ https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
