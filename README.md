@@ -89,6 +89,7 @@
 * __https://medium.freecodecamp.org/dom-manipulation-in-vanilla-js-2036a568dcd9__ __!!__
 * https://fr.umio.us/why-ramda/
 * https://itnext.io/a-beginners-guide-to-ramda-part-1-7e4a34972e97
++ __https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/__
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
