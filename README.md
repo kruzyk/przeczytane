@@ -57,6 +57,7 @@
 + https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26
 + __https://css-tricks.com/all-about-floats/__
 + https://medium.freecodecamp.org/do-you-even-flex-box-c16449cfca96
++ __https://seesparkbox.com/foundry/bem_by_example__
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
