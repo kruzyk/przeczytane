@@ -95,6 +95,7 @@
 + __https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/__
 + https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
 + https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
++ __https://flaviocopes.com/javascript-callbacks/__
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
