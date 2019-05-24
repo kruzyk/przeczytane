@@ -1,6 +1,7 @@
 # Baza wiedzy do przerobienia
 ## KODOWANIE
 ### do przeczytania:
+* __https://github.com/lip3k/33-js-concepts#1-call-stack__
 * https://css-tricks.com/almanac/properties/o/overflow/
 * https://medium.freecodecamp.org/discover-functional-programming-in-javascript-with-this-thorough-introduction-a2ad9af2d645
 * https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
@@ -13,6 +14,11 @@
 * https://developers.shopware.com/designers-guide/smarty/#variables
 * https://www.smarty.net/docsv2/en/language.modifiers.tpl
 * https://flaviocopes.com/javascript-promises/#introduction-to-promises
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+* https://medium.com/datadriveninvestor/javascript-for-beginners-05-object-oriented-programming-made-simple-dd5dee141e12
+* https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec
+* https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
+* https://itnext.io/a-beginners-guide-to-ramda-part-2-lenses-62bdd3993598
 
 ### w trakcie:
 * https://zellwk.com/blog/how-to-write-mobile-first-css/
