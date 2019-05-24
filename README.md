@@ -12,6 +12,7 @@
 * https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8
 * https://developers.shopware.com/designers-guide/smarty/#variables
 * https://www.smarty.net/docsv2/en/language.modifiers.tpl
+* https://flaviocopes.com/javascript-promises/#introduction-to-promises
 
 ### w trakcie:
 * https://zellwk.com/blog/how-to-write-mobile-first-css/
@@ -53,12 +54,12 @@
 * https://blog.usejournal.com/in-the-css-lab-shiny-gradient-hover-effect-274e5cb0346d
 * __https://blog.usejournal.com/css-scroll-snap-how-it-really-works-94d99db80bc9__
 * https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676
-+ __https://www.youtube.com/watch?v=Zz6eOVaaelI&t=2s__ SASS
-+ https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26
-+ __https://css-tricks.com/all-about-floats/__
-+ https://medium.freecodecamp.org/do-you-even-flex-box-c16449cfca96
-+ __https://seesparkbox.com/foundry/bem_by_example__
-+ https://medium.com/@filipvitas/lazy-load-images-with-zero-javascript-2c5bcb691274
+* __https://www.youtube.com/watch?v=Zz6eOVaaelI&t=2s__ SASS
+* https://medium.freecodecamp.org/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26
+* __https://css-tricks.com/all-about-floats/__
+* https://medium.freecodecamp.org/do-you-even-flex-box-c16449cfca96
+* __https://seesparkbox.com/foundry/bem_by_example__
+* https://medium.com/@filipvitas/lazy-load-images-with-zero-javascript-2c5bcb691274
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
@@ -93,12 +94,12 @@
 * __https://medium.freecodecamp.org/dom-manipulation-in-vanilla-js-2036a568dcd9__ __!!__
 * https://fr.umio.us/why-ramda/
 * https://itnext.io/a-beginners-guide-to-ramda-part-1-7e4a34972e97
-+ __https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/__
-+ https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
-+ https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
-+ __https://flaviocopes.com/javascript-callbacks/__
-+ https://medium.com/devgorilla/the-console-object-provides-access-to-the-browsers-debugging-console-354eda9d2d50
-+ __https://medium.freecodecamp.org/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169__
+* __https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/__
+* https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
+* https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+* __https://flaviocopes.com/javascript-callbacks/__
+* https://medium.com/devgorilla/the-console-object-provides-access-to-the-browsers-debugging-console-354eda9d2d50
+* __https://medium.freecodecamp.org/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169__
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
