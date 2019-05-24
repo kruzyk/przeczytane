@@ -97,6 +97,7 @@
 + https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
 + https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
 + __https://flaviocopes.com/javascript-callbacks/__
++ https://medium.com/devgorilla/the-console-object-provides-access-to-the-browsers-debugging-console-354eda9d2d50
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
