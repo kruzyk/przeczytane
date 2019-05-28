@@ -66,6 +66,7 @@
 * https://medium.freecodecamp.org/do-you-even-flex-box-c16449cfca96
 * __https://seesparkbox.com/foundry/bem_by_example__
 * https://medium.com/@filipvitas/lazy-load-images-with-zero-javascript-2c5bcb691274
+* https://css-tricks.com/almanac/properties/o/object-fit/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
