@@ -78,6 +78,7 @@
 * http://www.is.umk.pl/~grochu/wiki/doku.php?id=zajecia:ppz:trac_svn
 * __https://stackoverflow.com/posts/15658849/revisions__ TortoiseSVN merge trunk to branch
 * https://medium.com/@codebyjeff/learning-to-add-git-hook-tasks-php-cs-fixer-41f34d99aa8a
+* https://codecouple.pl/2016/02/11/gitflow-workflow-model-pracy-z-gitem/
 * __https://czterytygodnie.pl/jak-zarzadzac-galeziami-git-flow/__
 
 #### JS:
