@@ -80,6 +80,7 @@
 * https://medium.com/@codebyjeff/learning-to-add-git-hook-tasks-php-cs-fixer-41f34d99aa8a
 * https://codecouple.pl/2016/02/11/gitflow-workflow-model-pracy-z-gitem/
 * __https://czterytygodnie.pl/jak-zarzadzac-galeziami-git-flow/__
+* https://danielkummer.github.io/git-flow-cheatsheet/index.pl_PL.html
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
