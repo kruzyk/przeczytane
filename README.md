@@ -86,6 +86,7 @@
 * https://coderwall.com/p/u4vjkw/git-add-interactive-or-how-to-make-amazing-commits
 * https://nuclearsquid.com/writings/git-add/
 * https://mislav.net/2013/02/merge-vs-rebase/
+* __http://deltaspike.apache.org/staging/suggested-git-workflows.html__
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
