@@ -84,6 +84,7 @@
 * https://git-scm.com/book/pl/v1/Narz%C4%99dzia-Gita-Interaktywne-u%C5%BCywanie-przechowali
 * https://coderwall.com/p/u4vjkw/git-add-interactive-or-how-to-make-amazing-commits
 * https://nuclearsquid.com/writings/git-add/
+* https://mislav.net/2013/02/merge-vs-rebase/
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
