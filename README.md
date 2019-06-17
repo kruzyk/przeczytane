@@ -87,6 +87,7 @@
 * https://nuclearsquid.com/writings/git-add/
 * https://mislav.net/2013/02/merge-vs-rebase/
 * __http://deltaspike.apache.org/staging/suggested-git-workflows.html__
+* http://blog.pjuskiewicz.com/2019/03/15/git-laczenie-galezi-merge-and-rebase/
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
