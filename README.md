@@ -118,6 +118,7 @@
 * https://medium.com/devgorilla/the-console-object-provides-access-to-the-browsers-debugging-console-354eda9d2d50
 * __https://medium.freecodecamp.org/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169__
 * http://www.blog.molitorys.pl/szablony-w-javascript-z-wykorzystaniem-biblioteki-mustache-js
+* _https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/_
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
