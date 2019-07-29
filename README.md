@@ -132,6 +132,7 @@
 * __https://towardsdatascience.com/why-you-should-care-about-docker-9622725a5cb8__
 * https://medium.muz.li/why-ui-design-is-all-about-typography-370250d89ce8
 * https://developers.google.com/web/updates/2017/04/devtools-release-notes?fbclid=IwAR3GFtyIBKZzQ7DjEC5kSn8Y1K140PHr9vnSGGNs6e_KDo-mjQhABN_Lavk#coverage
+* https://blog.cloudboost.io/the-state-of-web-applications-3f789a18b810
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
