@@ -90,6 +90,8 @@
 * http://blog.pjuskiewicz.com/2019/03/15/git-laczenie-galezi-merge-and-rebase/
 * https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit
 * https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac
+* https://www.kevinkuszyk.com/2016/08/17/git-tips-5-prune-branches-to-keep-your-repro-in-good-shape/
+* https://www.atlassian.com/git/tutorials/git-prune
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
