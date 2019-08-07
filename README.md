@@ -19,6 +19,7 @@
 * https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec
 * https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
 * https://itnext.io/a-beginners-guide-to-ramda-part-2-lenses-62bdd3993598
+* https://medium.com/hackernoon/beginning-your-web-development-journey-start-here-7084346f5762
 
 ### w trakcie:
 * https://zellwk.com/blog/how-to-write-mobile-first-css/
