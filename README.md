@@ -124,6 +124,7 @@
 * __https://medium.freecodecamp.org/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169__
 * http://www.blog.molitorys.pl/szablony-w-javascript-z-wykorzystaniem-biblioteki-mustache-js
 * _https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/_
+* _https://medium.com/@jacobwarduk/how-to-correctly-use-preventdefault-stoppropagation-or-return-false-on-events-6c4e3f31aedb_
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
