@@ -69,6 +69,7 @@
 * https://medium.com/@filipvitas/lazy-load-images-with-zero-javascript-2c5bcb691274
 * https://css-tricks.com/almanac/properties/o/object-fit/
 * http://blog.jensdriller.com/my-new-favourite-git-feature-git-rebase-autostash/
+* __https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd__
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
