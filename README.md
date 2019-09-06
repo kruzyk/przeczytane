@@ -127,7 +127,8 @@
 * http://www.blog.molitorys.pl/szablony-w-javascript-z-wykorzystaniem-biblioteki-mustache-js
 * _https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/_
 * _https://medium.com/@jacobwarduk/how-to-correctly-use-preventdefault-stoppropagation-or-return-false-on-events-6c4e3f31aedb_
-*_https://css-tricks.com/dangers-stopping-event-propagation/_
+* _https://css-tricks.com/dangers-stopping-event-propagation/_
+* https://flaviocopes.com/es-modules/
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
