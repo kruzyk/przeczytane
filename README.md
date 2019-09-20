@@ -129,6 +129,7 @@
 * _https://medium.com/@jacobwarduk/how-to-correctly-use-preventdefault-stoppropagation-or-return-false-on-events-6c4e3f31aedb_
 * _https://css-tricks.com/dangers-stopping-event-propagation/_
 * https://flaviocopes.com/es-modules/
+* _https://blog.eduweb.pl/media-queries-w-javascript/_
 
 #### inne HTTP/API/SEM/SEO/UI/UX itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
