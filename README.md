@@ -145,6 +145,7 @@
 * https://uxplanet.org/latest-uxd-tool-ui-color-psychology-map-f5edc6711ab7
 * https://modus.medium.com/how-to-not-suck-at-color-b3980ee8084a
 * https://uxdesign.cc/5-key-lessons-from-psychology-in-design-to-help-you-advance-ux-2cbb837b4581
+* __https://leerob.io/blog/style-guides-component-libraries-design-systems/__
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
