@@ -96,6 +96,7 @@
 * https://www.kevinkuszyk.com/2016/08/17/git-tips-5-prune-branches-to-keep-your-repro-in-good-shape/
 * https://www.atlassian.com/git/tutorials/git-prune
 * https://www.internalpointers.com/post/squash-commits-into-one-git
+* __https://medium.com/@tommasi.v/git-enhanced-with-tig-9eb07fc30168__
 
 #### JS:
 * __https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf__
