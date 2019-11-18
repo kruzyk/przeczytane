@@ -71,6 +71,8 @@
 * http://blog.jensdriller.com/my-new-favourite-git-feature-git-rebase-autostash/
 * __https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd__
 * https://www.freecodecamp.org/news/4-reasons-your-z-index-isnt-working-and-how-to-fix-it-coder-coder-6bc05f103e6c/
+* https://gist.github.com/niksumeiko/360164708c3b326bd1c8
+* https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
