@@ -139,7 +139,7 @@
 * https://floating-point-gui.de/languages/javascript/
 * https://geek.justjoin.it/event-loop-a-kolejnosc-wykonywania-kodu-javascript/
 
-#### inne HTTP/API/SEM/SEO/UI/UX itd:
+#### inne HTTP/API/SEM/SEO/UI/UX/DevTool itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
 * https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
 * https://medium.com/@devon_campbell/why-should-i-care-about-http-714005cdd50e
@@ -154,6 +154,7 @@
 * https://modus.medium.com/how-to-not-suck-at-color-b3980ee8084a
 * https://uxdesign.cc/5-key-lessons-from-psychology-in-design-to-help-you-advance-ux-2cbb837b4581
 * __https://leerob.io/blog/style-guides-component-libraries-design-systems/__
+* https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
