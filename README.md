@@ -155,6 +155,7 @@
 * https://uxdesign.cc/5-key-lessons-from-psychology-in-design-to-help-you-advance-ux-2cbb837b4581
 * __https://leerob.io/blog/style-guides-component-libraries-design-systems/__
 * https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c
+* https://medium.com/@tomsu/devtools-tips-day-2-copying-saving-6aa9bbdadbe2
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
