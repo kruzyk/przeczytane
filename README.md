@@ -138,6 +138,7 @@
 * __https://itnext.io/make-your-javascript-elegant-with-recursions-98e006ab380c__
 * https://floating-point-gui.de/languages/javascript/
 * https://geek.justjoin.it/event-loop-a-kolejnosc-wykonywania-kodu-javascript/
+* https://nofluffjobs.com/blog/typescript-vs-javascript-javascript-ewoluuje-ale-czy-ma-juz-wszystko-czego-potrzeba/
 
 #### inne HTTP/API/SEM/SEO/UI/UX/DevTool itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
