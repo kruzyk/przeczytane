@@ -159,7 +159,7 @@
 * https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c
 * https://medium.com/@tomsu/devtools-tips-day-2-copying-saving-6aa9bbdadbe2
 * https://levelup.gitconnected.com/my-top-4-patterns-for-writing-simple-code-466705ac0b97
-* __https://bedekodzic.pl/webpack-4/_
+* __https://bedekodzic.pl/webpack-4/__
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
