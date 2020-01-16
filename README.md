@@ -29,7 +29,7 @@
 * https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 * https://github.com/infoshareacademy/jfdd10-til/blob/master/links-4.md
 
-### przeczytane:
+### przerobione:
 #### HTML/CSS
 * http://codeconvey.com/css-flip-animation-on-hover-flipping-card/
 * https://css-tricks.com/scroll-fix-content/
@@ -161,6 +161,7 @@
 * https://medium.com/@tomsu/devtools-tips-day-2-copying-saving-6aa9bbdadbe2
 * https://levelup.gitconnected.com/my-top-4-patterns-for-writing-simple-code-466705ac0b97
 * __https://bedekodzic.pl/webpack-4/__
+* https://www.youtube.com/watch?v=Ysp1rh5d5ps JS Event Loop
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
