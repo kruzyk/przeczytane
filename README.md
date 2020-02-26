@@ -76,6 +76,7 @@
 * __https://css-tricks.com/css-content/__
 * https://css-tricks.com/a-complete-guide-to-links-and-buttons/
 * https://codersblock.com/blog/creating-glow-effects-with-css/
+* https://adrianroselli.com/2020/02/block-links-cards-clickable-regions-etc.html
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
