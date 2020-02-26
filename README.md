@@ -75,6 +75,7 @@
 * https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
 * __https://css-tricks.com/css-content/__
 * https://css-tricks.com/a-complete-guide-to-links-and-buttons/
+* https://codersblock.com/blog/creating-glow-effects-with-css/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
