@@ -169,6 +169,7 @@
 * __https://bedekodzic.pl/webpack-4/__
 * https://www.youtube.com/watch?v=Ysp1rh5d5ps JS Event Loop
 * https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+* https://levelup.gitconnected.com/performant-javascript-best-practices-c5a49a357e46
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
