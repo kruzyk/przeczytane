@@ -173,6 +173,7 @@
 * https://levelup.gitconnected.com/performant-javascript-best-practices-c5a49a357e46
 * https://www.onely.com/blog/ultimate-guide-javascript-seo/
 * __https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/__
+* __https://blog.bitsrc.io/localstorage-sessionstorage-the-web-storage-of-the-web-6b7ca51c8b2a__
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
