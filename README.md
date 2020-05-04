@@ -149,6 +149,7 @@
 * __https://frontemdojs.pl/es6-w-przegladarce-jak-uzywac/__
 * https://www.robinwieruch.de/what-is-an-api-javascript
 * https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/
+* https://www.taniarascia.com/how-to-use-the-javascript-fetch-api-to-get-json-data/
 
 #### inne HTTP/API/SEM/SEO/UI/UX/DevTool itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
