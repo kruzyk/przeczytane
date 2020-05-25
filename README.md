@@ -150,6 +150,7 @@
 * https://www.robinwieruch.de/what-is-an-api-javascript
 * https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/
 * https://www.taniarascia.com/how-to-use-the-javascript-fetch-api-to-get-json-data/
+* __https://medium.com/swlh/getting-to-know-javascript-built-in-methods-arrays-7bb0201eadc5__
 
 #### inne HTTP/API/SEM/SEO/UI/UX/DevTool itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
