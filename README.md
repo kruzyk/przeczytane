@@ -151,6 +151,7 @@
 * https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/
 * https://www.taniarascia.com/how-to-use-the-javascript-fetch-api-to-get-json-data/
 * __https://medium.com/swlh/getting-to-know-javascript-built-in-methods-arrays-7bb0201eadc5__
+* https://levelup.gitconnected.com/3-javascript-refactoring-techniques-for-clean-code-c356be1abbcb
 
 #### inne HTTP/API/SEM/SEO/UI/UX/DevTool itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
