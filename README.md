@@ -77,6 +77,7 @@
 * https://css-tricks.com/a-complete-guide-to-links-and-buttons/
 * https://codersblock.com/blog/creating-glow-effects-with-css/
 * https://adrianroselli.com/2020/02/block-links-cards-clickable-regions-etc.html
+* __https://css-tricks.com/how-to-make-a-media-query-less-card-component/__
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
