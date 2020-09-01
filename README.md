@@ -79,6 +79,7 @@
 * https://adrianroselli.com/2020/02/block-links-cards-clickable-regions-etc.html
 * __https://css-tricks.com/how-to-make-a-media-query-less-card-component/__
 * https://ishadeed.com/article/pixel-perfection/
+* https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
