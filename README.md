@@ -187,6 +187,7 @@
 * __https://blog.bitsrc.io/localstorage-sessionstorage-the-web-storage-of-the-web-6b7ca51c8b2a__
 * __https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/__
 * https://medium.com/swlh/json-structure-and-schema-986f6ff64b94
+* https://zaprogramujzycie.pl/czym-jest-rest/
 
 #### VScode:
 * https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
