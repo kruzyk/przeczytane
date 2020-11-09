@@ -80,6 +80,7 @@
 * __https://css-tricks.com/how-to-make-a-media-query-less-card-component/__
 * https://ishadeed.com/article/pixel-perfection/
 * https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/
+* __https://www.frontlive.pl/css-min-max-clamp/__
 
 #### GIT/SVN:
 * https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/
