@@ -160,6 +160,10 @@
 * https://www.freecodecamp.org/news/the-javascript-in-operator-explained-with-examples/
 * __https://dev.to/alexdevero/introduction-to-javascript-property-getters-and-setters-accessor-properties-m9d__
 
+#### React/Redux:
+* https://medium.com/hackernoon/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645
+* https://www.datadoghq.com/blog/engineering/redux-doghouse-reusable-react-redux-components-through-scoping/
+
 #### inne HTTP/API/SEM/SEO/UI/UX/DevTool itd:
 * https://www.intellect.pl/blog/zmiany-google-maps/
 * https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4
