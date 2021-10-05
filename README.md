@@ -161,6 +161,7 @@
 * https://www.freecodecamp.org/news/the-javascript-in-operator-explained-with-examples/
 * __https://dev.to/alexdevero/introduction-to-javascript-property-getters-and-setters-accessor-properties-m9d__
 * https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
+* https://kpiteng.medium.com/javascript-tips-tricks-and-best-practices-a94805c14d02
 
 #### React/Redux:
 * https://medium.com/hackernoon/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645
